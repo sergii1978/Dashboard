@@ -80,6 +80,24 @@ body {
   border-radius: 50%;
 }
 
+@media (max-width: 768px) {
+  .sidebar {
+    position: static;
+    height: auto;
+  }
+
+  .top-navbar {
+    position: static;
+  }
+
+  .navbar-nav {
+    margin-top: 10px;
+  }
+
+  .navbar-nav .nav-item:first-child {
+    margin-right: 20px;
+  }
+}
 
 
 
