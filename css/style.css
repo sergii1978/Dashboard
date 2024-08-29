@@ -75,7 +75,9 @@ body {
   top: 7px;
   left: 15px;
   height: 12px;
-  width: 12px
+  width: 12px;
+  background-color: #f44336;
+  border-radius: 50%;
 }
 
 
