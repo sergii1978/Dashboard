@@ -99,6 +99,15 @@ body {
   }
 }
 
+/* secrion card */
+.description__name {
+  font-size: 1.25rem;
+}
+
+.description__parameter {
+  font-size: 1.75rem;
+}
+
 
 
 
