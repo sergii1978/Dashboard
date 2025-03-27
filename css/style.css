@@ -99,7 +99,7 @@ body {
   }
 }
 
-/* secrion card */
+/* section card */
 .description__name {
   font-size: 1.25rem;
 }
@@ -118,8 +118,13 @@ body {
   transform: translateY(-1px);
 }
 
+/*end of section card */
 
-
+/* Task list */
+.task-border {
+  border-left: 3px solid #f66436;
+}
+/* End of Task list */
 
 
 
